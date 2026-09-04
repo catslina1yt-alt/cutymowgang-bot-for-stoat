@@ -1,0 +1,44 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "4IYG-FP7gEnFDRfzeL6gJ"
+uri = "file://exports/cutymowgang-stoat-migration.zip"
+type = "unspecified"
+title = "CutyMowGang pour Stoat — projet complet"
+description = "Archive du projet avec le code du bot Stoat, SQLite, commandes, événements, scripts de démarrage et documentation. Les secrets, node_modules et bases locales ne sont pas inclus."
+logical_id = "82191004-372b-456b-8615-4e531e299898"
+content_hash = "sha256:226ec940c2bda1074b0c47e779e326e01dd4f5f3ca1521ea846f9d74407695c3"
+size = 41011980
+mtime_ms = 1788509140591
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/repl:96dab326-e360-4848-97fe-886993045f3f/82191004-372b-456b-8615-4e531e299898/4d2e0748-ef85-44e6-b4e6-f4821806619d"
+storage_version_token = "1788509145996866"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "X88e1jHQAMRHrjLlHZ5k4"
+uri = "file://exports/cutymowgang-stoat-migration-windows-fixed.zip"
+type = "unspecified"
+title = "CutyMowGang pour Stoat — archive corrigée Windows"
+description = "Version corrigée pour Windows PowerShell : l’installation pnpm n’utilise plus sh-c. Le projet inclut aussi la configuration pnpm et le support de better-sqlite3."
+logical_id = "c176ec6f-a357-4def-91b2-101b04a1bb5f"
+content_hash = "sha256:7daffc2439ce5e0cce67f25ca6b66ef874e1ccae9365252bbc24cfb934fb8d33"
+size = 44591414
+mtime_ms = 1788510070459
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/repl:96dab326-e360-4848-97fe-886993045f3f/c176ec6f-a357-4def-91b2-101b04a1bb5f/0b5415a3-edf2-4da0-af6a-49a12fc596e6"
+storage_version_token = "1788510075213161"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "qS4lozDSZdVsdTQURabsr"
+uri = "file://exports/cutymowgang-stoat-migration-final-windows.zip"
+type = "unspecified"
+title = "CutyMowGang pour Stoat — archive finale Windows"
+description = "Archive finale compatible Windows et pnpm 11 : script preinstall sans sh-c, configuration des builds natifs dans pnpm-workspace.yaml, bot Stoat et documentation inclus."
+logical_id = "a40be778-d07c-4f80-825c-6735846d5a3e"
+content_hash = "sha256:e248508a7a42fe676ca83106343640d5224196e17d9163bb2443cc4f0073d7ea"
+size = 44624525
+mtime_ms = 1788510367674
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/repl:96dab326-e360-4848-97fe-886993045f3f/a40be778-d07c-4f80-825c-6735846d5a3e/9cdf2abb-eaa7-43bf-be5d-f97c9515f364"
+storage_version_token = "1788510372649824"
+content_type = "application/octet-stream"

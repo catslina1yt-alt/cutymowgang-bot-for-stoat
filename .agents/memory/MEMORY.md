@@ -1,0 +1,1 @@
+- [Workspace package installation](package-management.md) — target the specific pnpm workspace package instead of installing artifact dependencies at the root.
